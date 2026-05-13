@@ -1,4 +1,6 @@
 *
 !.gitignore
+!index.html
+!README.md
 !ai-memory-tools-for-coding-agents.md
 !presentation.html
